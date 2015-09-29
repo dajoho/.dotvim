@@ -25,6 +25,7 @@ set noantialias
 set encoding=utf-8                  " set encoding to utf-8
 set backspace=indent,eol,start
 syntax on
+set noswapfile
 set nowrap
 set number
 
